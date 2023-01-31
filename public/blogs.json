@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Redux",
+    "img": "https://blog.slashgear.dev/static/ee72c19029938b25ca14c9387d5095ab/6edcc/redux.jpg",
+    "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more. The Redux DevTools make it easy to trace when, where, why, and how your application's state changed. Redux's architecture lets you log changes, use, and even send complete error reports to a server. Redux works with any UI layer, and has a large ecosystem of addons to fit your needs."
+  },
+
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220714150931/JavaScript-Introduction.jpg",
+    "description": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+  },
+  {
+    "id": 3,
+    "title": "React.js",
+    "img": "https://www.sipexe.com/assets/courses/react.jpg",
+    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug. Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM."
+  },
+
+  {
+    "id": 4,
+    "title": "CSS3",
+    "img": "https://blob.sololearn.com/assets/introduction-CSS-web-og-v1.png",
+    "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more. The Redux DevTools make it easy to trace when, where, why, and how your application's state changed. Redux's architecture lets you log changes, use, and even send complete error reports to a server. Redux works with any UI layer, and has a large ecosystem of addons to fit your needs."
+  },
+
+  {
+    "id": 5,
+    "title": "Firebase",
+    "img": "https://miro.medium.com/max/1400/1*B0Av_NnFrCKsyC7gN94ytg.png",
+    "description": "Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. Get started Watch video. Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment."
+  },
+
+  {
+    "id": 6,
+    "title": "React Native",
+    "img": "https://crowdbotics.ghost.io/content/images/2021/08/React-Native--1-.png",
+    "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more. The Redux DevTools make it easy to trace when, where, why, and how your application's state changed. Redux's architecture lets you log changes, use, and even send complete error reports to a server. Redux works with any UI layer, and has a large ecosystem of addons to fit your needs."
+  }
+]
