@@ -3,7 +3,7 @@ import { addBlog } from "../../Action/BlogsAction";
 export const addNewblog = (blog) => {
   return async (dispatch) => {
     const res = await fetch(
-      "https://practice-server-ripassorker2.vercel.app/blog",
+      "https://noon-server.vercel.app/blog",
       {
         method: "POST",
         headers: {

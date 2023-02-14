@@ -23,7 +23,7 @@ export const router = createBrowserRouter([
         element: <BlogsDetails />,
         loader: ({ params }) =>
           fetch(
-            `https://practice-server-ripassorker2.vercel.app/blog/${params.id}`
+            `https://noon-server.vercel.app/blog/${params.id}`
           ),
       },
       {
@@ -31,7 +31,7 @@ export const router = createBrowserRouter([
         element: <UpdateBlog />,
         loader: ({ params }) =>
           fetch(
-            `https://practice-server-ripassorker2.vercel.app/blog/${params.id}`
+            `https://noon-server.vercel.app/blog/${params.id}`
           ),
       },
     ],

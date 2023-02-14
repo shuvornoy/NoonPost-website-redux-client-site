@@ -1,42 +1,71 @@
-[
-  {
-    "id": 1,
-    "title": "Redux",
-    "img": "https://blog.slashgear.dev/static/ee72c19029938b25ca14c9387d5095ab/6edcc/redux.jpg",
-    "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more. The Redux DevTools make it easy to trace when, where, why, and how your application's state changed. Redux's architecture lets you log changes, use, and even send complete error reports to a server. Redux works with any UI layer, and has a large ecosystem of addons to fit your needs."
-  },
 
-  {
-    "id": 2,
-    "title": "JavaScript",
-    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220714150931/JavaScript-Introduction.jpg",
-    "description": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
-  },
-  {
-    "id": 3,
-    "title": "React.js",
-    "img": "https://www.sipexe.com/assets/courses/react.jpg",
-    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug. Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM."
-  },
+[{
+"title":"What The Secrets You Will know about Jordan Petra if Visit it One Day? ","img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/2.jpg",
+"description":"Its sometimes her behaviour are contented. Do listening am eagerness oh objection collected. Together gay feelings continue juvenile had off Unknown may service subject her letters one bed. Child years noise ye in forty. Loud in this in both hold. My entrance me is disposal bachelor remember relation",
+"currentDate":"February 10, 2022",
+"currentTime":"9:22am"
+},
 
-  {
-    "id": 4,
-    "title": "CSS3",
-    "img": "https://blob.sololearn.com/assets/introduction-CSS-web-og-v1.png",
-    "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more. The Redux DevTools make it easy to trace when, where, why, and how your application's state changed. Redux's architecture lets you log changes, use, and even send complete error reports to a server. Redux works with any UI layer, and has a large ecosystem of addons to fit your needs."
-  },
+{
+"title":"Get the Most Out of Iceland with our 10 Travel Tips",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/8.jpg",
+"description":"First, Dennis and colleagues give an overview of the SCY project's goals and present data from sites that agreed to use common measures to evaluate outcomes.The SCY may have other definitions. Please scroll down to see its definitions in English, and other five meanings in your language.",
+"currentDate":"March 10, 2022",
+"currentTime":"10:24pm"
+},
+{
+"title":"7 Holiday Decor Ideas and Exactly What I Love About Each One",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/1.jpg",
+"description":"tea, beverage produced by steeping in freshly boiled water the young leaves and leaf buds of the tea plant, Camellia sinensis. Two principal varieties are used, the small-leaved China plant (C. sinensis variety sinensis) and the large-leaved Assam plant (C. sinensis variety assamica). Hybrids of these two varieties are also grown. The leaves may be fermented or left unfermented.",
+"currentDate":"April 15, 2022",
+"currentTime":"12:24am"
+},
 
-  {
-    "id": 5,
-    "title": "Firebase",
-    "img": "https://miro.medium.com/max/1400/1*B0Av_NnFrCKsyC7gN94ytg.png",
-    "description": "Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. Get started Watch video. Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment."
-  },
+{
 
-  {
-    "id": 6,
-    "title": "React Native",
-    "img": "https://crowdbotics.ghost.io/content/images/2021/08/React-Native--1-.png",
-    "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more. The Redux DevTools make it easy to trace when, where, why, and how your application's state changed. Redux's architecture lets you log changes, use, and even send complete error reports to a server. Redux works with any UI layer, and has a large ecosystem of addons to fit your needs."
-  }
-]
+"title":"What Are Your Tips for Hosting an Easy Birthday Party?",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/7.jpg",
+"description":"Food scientists improve food quality and packaging and originate new food products. This may include ensuring products comply with safety standards as well as developing improved food processing, storage, and transportation methods.",
+"currentDate":"May 15, 2022",
+"currentTime":"08:40pm"
+},
+
+{
+"title":"5 Effective Ways I’m Finding Focus in a Busy Season of Life",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/16.jpg",
+"description":"If two years ago someone had asked me about what to do with his life, I would’ve laughed, expressed my sincere condolences, and offered to take him to the local strip club. I had no idea what to do with my life, and if they were that low, they could for sure have used some lightly dressed distraction. This is why I was surprised when last week a friend called to ask for my help.",
+"currentDate":"June 15, 2022",
+"currentTime":"06:37am"
+},
+
+{
+"title":"What Are Your Tips for Hosting an Easy Birthday Party?",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/3.jpg",
+"description":"The term burger can also be applied to the meat patty on its own, especially in the United Kingdom, where the term patty is rarely used or can even refer to ground beef. Since the term hamburger usually implies beef, for clarity burger may be prefixed with the type of meat or meat substitute used, as in beef burger, turkey burger, bison burger, portobello burger, or veggie burger. In Australia and New Zealand, a piece of chicken breast on a bun is known as a chicken burger, which would generally not be considered to be a burger in the United States",
+"currentDate":"July 02, 2022",
+"currentTime":"04:33am"
+},
+
+{
+"title":"Get the Most Out of Iceland with our 10 Travel Tips",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/15.jpg",
+"description":"Given how much travel-related research consumers are able to do online, an astute travel agent needs to be a few steps ahead and develop a unique understanding of the industry and how they can provide value for travelers. If your agency is looking to staff up, you will want to write a compelling and targeted job description that encourages the best agents to apply.",
+"currentDate":"December 02, 2022",
+"currentTime":"01:35am"
+},
+
+{
+"title":"Effective Ways I’m Finding Focus in a Busy Season of Life",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/25.jpg",
+"description":"A caption is text that appears below an image.[a] Most captions draw attention to something in the image that is not obvious, such as its relevance to the text. A caption may be a few words or several sentences. Writing good captions takes effort; along with the lead and section headings, captions are the most commonly read words in an article, so they should be succinct and informative.",
+"currentDate":"January 02, 2023",
+"currentTime":"10:41pm"
+},
+
+{
+"title":"What Are Your Tips for Hosting an Easy Birthday Party?",
+"img":"https://demo-noonpost.assiagroupe.net/html/assets/img/blog/4.jpg",
+"description":"Are you a Party Pro Member? Share the Partytrick magic! Refer 3 new Partytrick members with your unique code by March 31st, 2023 and be entered to win a set of six (6) wine glasses from Estelle Colored Glass + your friends will get 3 months of Partytrick FREE.*",
+"currentDate":"February 10, 2023",
+"currentTime":"08:15am"
+}]

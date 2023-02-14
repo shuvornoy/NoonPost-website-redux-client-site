@@ -3,7 +3,7 @@ import { deleteBlogs } from "../../Action/BlogsAction";
 export const deleteBlogData = (id) => {
   return async (dispatch) => {
     const res = await fetch(
-      `https://practice-server-ripassorker2.vercel.app/blog/${id}`,
+      `https://noon-server.vercel.app/blog/${id}`,
       {
         method: "DELETE",
       }

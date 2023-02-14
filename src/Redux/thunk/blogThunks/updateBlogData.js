@@ -11,7 +11,7 @@ export const updateteBlogData = (blogData) => {
   };
   return async (dispatch) => {
     const res = await fetch(
-      `https://practice-server-ripassorker2.vercel.app/blog/${id}`,
+      `https://noon-server.vercel.app/blog/${id}`,
       {
         method: "PUT",
         headers: {
