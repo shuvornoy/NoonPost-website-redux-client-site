@@ -30,7 +30,9 @@ const BlogCard = ({ blog }) => {
             .....
           </p>
 
-          <div className="flex items-center justify-end mt-4"></div>
+          <div className="flex items-center justify-center mt-4">
+            <button className="btn btn-secondary w-full">Post details</button>
+          </div>
         </div>
       </Link>
     </div>

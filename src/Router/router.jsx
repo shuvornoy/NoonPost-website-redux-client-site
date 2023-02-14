@@ -22,17 +22,13 @@ export const router = createBrowserRouter([
         path: "/details/:id",
         element: <BlogsDetails />,
         loader: ({ params }) =>
-          fetch(
-            `https://noon-server.vercel.app/blog/${params.id}`
-          ),
+          fetch(`https://noon-server.vercel.app/blog/${params.id}`),
       },
       {
         path: "/update/:id",
         element: <UpdateBlog />,
         loader: ({ params }) =>
-          fetch(
-            `https://noon-server.vercel.app/blog/${params.id}`
-          ),
+          fetch(`https://noon-server.vercel.app/blog/${params.id}`),
       },
     ],
   },

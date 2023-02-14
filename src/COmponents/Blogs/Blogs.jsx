@@ -48,20 +48,20 @@ const Blogs = () => {
   return (
     <div className="max-w-screen-xl w-[92%] mx-auto">
       <h1 className="text-5xl text-center font-semibold text-gray-800 mt-14">
-        Blogs
+        Noon Post Blogs
       </h1>
       <div className="flex justify-end my-7">
         <button
           onClick={() => dispatch(fristUpLoad())}
           className={`btn  btn-sm mx-2 ${fristUp ? "btn-secondary" : null}`}
         >
-          Frist Upload
+          First Post
         </button>
         <button
           onClick={() => dispatch(lastUpLoad())}
           className={`btn  btn-sm mx-2 ${lastUp ? "btn-secondary" : null}`}
         >
-          Last Upload
+          Last Post
         </button>
       </div>
       <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-10 mb-8 ">

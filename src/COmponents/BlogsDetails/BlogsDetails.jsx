@@ -3,7 +3,7 @@ import { useLoaderData } from "react-router-dom";
 
 const BlogsDetails = () => {
   const blogDetails = useLoaderData();
-  const { title, img, description } = blogDetails;
+  const { title, img, description, currentDate, currentTime } = blogDetails;
   return (
     <header className="">
       <div className="container px-6 py-16 mx-auto">
@@ -23,6 +23,10 @@ const BlogsDetails = () => {
               <p className="mt-1 text-gray-600 dark:text-gray-400">
                 {description}
               </p>
+              <div className="flex gap-3 font-bold mt-4">
+                <p>Post: {currentDate}</p>
+                <p> {currentTime}</p>
+              </div>
             </div>
           </div>
         </div>
